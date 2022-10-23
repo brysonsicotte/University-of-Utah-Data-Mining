@@ -1,5 +1,5 @@
 # Car Auction Lemons
-## Predict if a car purchased at auction is a lemon
+## Predicting if a car purchased at auction is a lemon
 
 Car dealerships run the risk of taking significant losses if a purchsed vehicle is unfit to be resold. A model that can predict these "lemons" ahead of time would be of great value.
 
